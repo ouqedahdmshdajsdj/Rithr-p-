@@ -19,7 +19,7 @@
 # Client
 
 ## Screenshots
-https://imgur.com/a/X3G5R6W
+https://imgur.com/a/P6yxIVe
 
 ## Known bugs
  - Discord RPC don't work on DARWIN (Mac OS)
